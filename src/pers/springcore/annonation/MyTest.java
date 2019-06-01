@@ -1,4 +1,4 @@
-package pers.springcore;
+package pers.springcore.annonation;
 
 public class MyTest
 {

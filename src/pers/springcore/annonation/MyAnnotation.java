@@ -1,4 +1,4 @@
-package pers.springcore;
+package pers.springcore.annonation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
